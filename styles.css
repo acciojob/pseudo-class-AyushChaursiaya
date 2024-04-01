@@ -1,1 +1,19 @@
-/*  your css code here. If applicable */
+#container {
+    margin: 20px;
+    position: relative;
+}
+
+.special-text {
+    color: #f00;
+    font-size: 20px;
+    position: absolute;
+    top: 0;
+}
+
+/* .special-text:first-of-type { */
+    /* left: -110px; /* Adjust as needed */ 
+/* } */
+
+/* .special-text:last-of-type { */
+    /* right: -110px; /* Adjust as needed */
+/* } */
